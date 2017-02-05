@@ -36,7 +36,7 @@ Research Analyst, Technology and Communications (_Dec ‘15 — Oct ‘16_)
 - writing targeted sales pitches to win new assignments;
 - telephone networking with sources and candidates to gauge activities and developments within the sector;
 - attending client progress discussions and pitches with senior members of the team;
-- proactive research work to identify target companies, individuals and relevant information for assignments;
+- proactive research work to identify target companies, individuals and relevant information for assignments.
 
 <br>
 Research Analyst, Consumer (_Dec ‘14 — Dec ‘15_)
@@ -49,7 +49,7 @@ Recruitment Consultant, Graduates programmes (_Nov ‘10 — Mar ‘11_)
 
 - Gap year job managing outsourced graduate recruitment for major UK companies;
 - Telephone interviewing for final stage of Assessment Centres for a major UK pharmaceutical company, International bank, and energy company;
-- 2 months running the graduate recruitment for a major UK-based energy company;
+- 2 months running the graduate recruitment for a major UK-based energy company.
 
 &nbsp;
 ## Education
