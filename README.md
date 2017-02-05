@@ -44,8 +44,8 @@ _Dec ‘14 — Dec ‘15_
 - first year working on Consumer and Retail assignments for FTSE 100 clients, as well as smaller retail companies
 
 #### Recruitment Consultant, Graduates
-Reed Recruitment
-_Nov ‘10 — Mar ‘11_ <br>
+Reed Recruitment <br>
+_Nov ‘10 — Mar ‘11_
 - Gap year job handling outsourced graduate recruitment for major UK companies;
 - Telephone interviewing for final stage of Assessment Centres for a major UK pharmaceutical company, International bank, and energy company;
 - **2 months running the graduate recruitment for a major UK-based energy company**;
