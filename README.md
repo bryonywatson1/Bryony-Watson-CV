@@ -43,8 +43,8 @@ Research Analyst, Consumer (_Dec ‘14 — Dec ‘15_)
 <br>
 - first year working on Consumer and Retail assignments for FTSE 100 clients, as well as smaller retail companies
 
-#### Reed Recruitment
-Recruitment Consultant, Graduates programmes (_Nov ‘10 — Mar ‘11_)
+#### Reed Recruitment (_Nov ‘10 — Mar ‘11_)
+Recruitment Consultant, Graduates programmes
  <br>
 
 - Gap year job managing outsourced graduate recruitment for major UK companies;
@@ -54,8 +54,8 @@ Recruitment Consultant, Graduates programmes (_Nov ‘10 — Mar ‘11_)
 &nbsp;
 ## Education
 
-#### Makers Academy
-Software Development (_Nov ‘16 — Feb ‘17_)
+#### Makers Academy (_Nov ‘16 — Feb ‘17_)
+Software Development
 <br>
 - 12 week software development course
 - OOP, TDD, SOLID, MVC, DDD
@@ -63,8 +63,8 @@ Software Development (_Nov ‘16 — Feb ‘17_)
 - Ruby, Rails, Javascript, Node.js, Angular.js, Swift
 
 
-#### University of Cambridge
-BA (Hons) in Human Social and Political Science, Biological Anthropology (_Sept ‘11 — July ‘14_)
+#### University of Cambridge (_Sept ‘11 — July ‘14_)
+BA (Hons) in Human Social and Political Science, Biological Anthropology
 <br>
 - Grade **2.1**
 - Final result **67%**. Achieved a 1st in two papers (marks: 74,70,69,69,65,59)
