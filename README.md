@@ -42,7 +42,7 @@ Research Analyst, Technology and Communications (_Dec ‘15 — Oct ‘16_)
 Research Analyst, Consumer (_Dec ‘14 — Dec ‘15_)
 <br>
 - first year working on Consumer and Retail assignments for FTSE 100 clients, as well as smaller retail companies
-<br>
+
 
 
 #### Reed Recruitment (_Nov ‘10 — Mar ‘11_)
