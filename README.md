@@ -54,8 +54,8 @@ Recruitment Consultant, Graduates programmes (_Nov ‘10 — Mar ‘11_)
 &nbsp;
 ## Education
 
-#### Software Development
-Makers Academy (_Nov ‘16 — Feb ‘17_)
+#### Makers Academy
+Software Development (_Nov ‘16 — Feb ‘17_)
 <br>
 - 12 week software development course
 - OOP, TDD, SOLID, MVC, DDD
@@ -63,8 +63,8 @@ Makers Academy (_Nov ‘16 — Feb ‘17_)
 - Ruby, Rails, Javascript, Node.js, Angular.js, Swift
 
 
-#### BA (Hons) in Human Social and Political Science, Biological Anthropology
-University of Cambridge (_Sept ‘11 — July ‘14_)
+#### University of Cambridge
+BA (Hons) in Human Social and Political Science, Biological Anthropology (_Sept ‘11 — July ‘14_)
 <br>
 - Grade **2.1**
 - Final result **67%**. Achieved a 1st in two papers (marks: 74,70,69,69,65,59)
