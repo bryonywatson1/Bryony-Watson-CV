@@ -27,7 +27,7 @@ I started my coding journey in my teens, when I played around with html, creatin
 ## Experience
 
 #### Research Analyst, Technology and Communications
-**Egon Zehnder** <br>
+Egon Zehnder <br>
 _Dec ‘15 — Oct ‘16_
 - **world's third largest executive search and talent strategy firm**;
 - **asked to move into Tech team** to pursue interest in technology;
@@ -39,12 +39,12 @@ _Dec ‘15 — Oct ‘16_
 - proactive research work to identify target companies,individuals and relevant information for assignments;
 
 #### Research Analyst, Consumer
-**Egon Zehnder** <br>
+Egon Zehnder <br>
 _Dec ‘14 — Dec ‘15_
 - first year working on Consumer and Retail assignments for FTSE 100 clients, as well as smaller retail companies
 
 #### Recruitment Consultant, Graduates
-**Reed Recruitment**
+Reed Recruitment
 _Nov ‘10 — Mar ‘11_ <br>
 - Gap year job handling outsourced graduate recruitment for major UK companies;
 - Telephone interviewing for final stage of Assessment Centres for a major UK pharmaceutical company, International bank, and energy company;
@@ -53,7 +53,8 @@ _Nov ‘10 — Mar ‘11_ <br>
 &nbsp;
 ## Education
 
-#### Makers Academy, Software Development
+#### Software Development
+Makers Academy
 <br>
 _Nov ‘16 — Feb ‘17_
 - 12 week software development course
@@ -62,7 +63,8 @@ _Nov ‘16 — Feb ‘17_
 - Ruby, Rails, Javascript, Node.js, Angular.js, Swift
 
 
-#### University of Cambridge, Human Social and Political Science, Biological Anthropology
+#### Human Social and Political Science, Biological Anthropology
+University of Cambridge
 <br>
 _Sept ‘11 — July ‘14_
 - Grade **2.1**
