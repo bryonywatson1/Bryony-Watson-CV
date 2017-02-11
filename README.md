@@ -13,15 +13,14 @@ In my next job, I am looking to expand further my skillset and continue my learn
 &nbsp;
 ## Skills
 
+#### Passion for code
+I started my coding journey in my teens, when I played around with html, creating free websites for friends' birthdays. I find the process of making something with code satisfying, and I love the idea that coding enables you to build your own ideas. During my time at Makers Academy, I came up with an idea to make a tool for new developers to diagram their understanding of code using the Class, Responsibility and Collaborator model. My team of 4 built this web page over three days: https://bluprnt.herokuapp.com/. For my final project at Makers, myself and another person on the course pitched the idea of an app to help the visually impaired navigate train stations in London using bluetooth beacon technology. We got our idea from a weekend hackathon we had attended organised by a company called Wayfindr, whose goal is to empower the visually impaired to navigate the world independently. We built our app, GuideMe, in 2 weeks in Swift, which was a completely new language to us, and we were really pleased with the final product. Github repo : https://github.com/aabolade/GuideMe and demo video: https://www.youtube.com/watch?v=wIF0KgibgrQ
+
 #### Curiosity and passion for learning
 I have always had a passion for learning and a curiosity that has driven both my academic and professional decisions. I studied Biological Anthropology, as I was curious to learn about humans from a biological perspective: I particularly enjoyed studying cutting-edge research in genetics, primatology and archaeology. On graduating, I decided to work at Egon Zehnder because I wanted to learn about business and get a broad overview of different companies and different roles, particularly in technology. I am excited about the constant learning that comes with being a professional developer.
 
 #### Problem solving
 With my background in Biological Anthropology, I've learnt to take a scientific and systematic approach to solving a problem, starting with a hypothesis and testing it out by writing unit tests or intentionally breaking code (and subsequently fixing it). In my final year at Cambridge I wrote a dissertation on Neanderthal humeral morphology. In the last few weeks before the project was due I noticed a problem in my results and identified a bug in the software that I was using. I needed to adapt my statistical analysis to factor this in and this meant I took an important change in direction in the conclusion of my dissertation.
-
-#### Passion for code
-I started my coding journey in my teens, when I played around with html, creating free websites for friends' birthdays. I find the process of making something with code satisfying, and I love the idea that coding enables you to build your own ideas. During my time at Makers Academy, I came up with an idea to make a tool for new developers to diagram their understanding of code using the Class, Responsibility and Collaborator model. I worked within a team of 4 to put this idea into action and we built this web page over three days: https://bluprnt.herokuapp.com/
-
 
 &nbsp;
 ## Experience
