@@ -2,13 +2,22 @@
 ## Bryony Watson
 
 
-[skills](#skills) | [experience](#experience) | [education](#education) | [linkedin](https://uk.linkedin.com/in/bryony-watson)
+[sample projects](#sample projects) | [skills](#skills) | [experience](#experience) | [education](#education) | [linkedin](https://uk.linkedin.com/in/bryony-watson)
 
 I have always had a passion for technology, and over the last year have decided to act on it. In my previous role at Egon Zehnder I worked in the tech team, recruiting senior folks such as CEOs and CTOs for all kinds of digital and tech companies. I was inspired by the people we were interviewing and I admired the interesting work they were doing. I started teaching myself to code, and, realising how satisfying and exciting I found it, applied for the software development course at Makers Academy.
 
 Over my last 3 months at Makers Academy, I have expanded my learning in JavaScript, Ruby, Swift, Css, and HTML, and learnt best practices such as TDD.
 
 In my next job, I am looking to expand further my skillset and continue my learning across the full stack and will happily learn new programming languages if the opportunity arises.
+
+&nbsp;
+## Sample Projects
+
+Project | Description | Technologies | Testing
+--- | --- | --- | ---
+[GuideMe](https://github.com/bryonywatson1/GuideMe) | Native iOS app built in 10days to help the visually impaired navigate train stations in London using bluetooth beacon technology | Swift | XCTest
+[makersBnB](https://github.com/bryonywatson1/makersbnb) | AirBnB web app clone built in 5 days  | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
+[Instagram](https://github.com/bryonywatson1/instagram-challenge) | An Instagram clone web app built over a single weekend | Ruby on Rails, PostgreSQL | Rspec, Capybara
 
 &nbsp;
 ## Skills
