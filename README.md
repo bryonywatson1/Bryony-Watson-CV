@@ -70,7 +70,7 @@ Software Development
 - 12 week software development course
 - OOP, TDD, SOLID, MVC, DDD
 - Test-driving web applications, with tools such as RSpec and Jasmine
-- Ruby, Rails, Javascript, Node.js, Angular.js, Swift
+- Ruby, Rails, Javascript, Node.js, Swift
 
 
 #### University of Cambridge (_Sept ‘11 — July ‘14_)
