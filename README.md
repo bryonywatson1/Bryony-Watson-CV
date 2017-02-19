@@ -79,3 +79,4 @@ BA (Hons) in Human Social and Political Science, Biological Anthropology
 - Grade **2.1**
 - Final result **67%**. Achieved a 1st in two papers (marks: 74,70,69,69,65,59)
 - Choral Scholar at Sidney Sussex College - 3 services a week, international tours and a cd recording every year
+
