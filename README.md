@@ -15,7 +15,7 @@ In my next job, I am looking to expand further my skillset and continue my learn
 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
-[GuideMe](https://github.com/bryonywatson1/GuideMe) | Native iOS app built in 10days to help the visually impaired navigate train stations in London using bluetooth beacon technology- demo video here: https://www.youtube.com/watch?v=wIF0KgibgrQ | Swift | XCTest
+[GuideMe](https://github.com/bryonywatson1/GuideMe) | Native iOS app built in 10days to help the visually impaired navigate train stations in London using bluetooth beacon technology- presentation video here: https://www.youtube.com/watch?v=BJC0dtZXxYA&list=PLc4BYny7PXeQ-DVKwBOrsC3MfCJfJG87O&index=7 | Swift | XCTest
 [makersBnB](https://github.com/bryonywatson1/makersbnb) | AirBnB web app clone built in 5 days- demo version here: https://davidbnb.herokuapp.com/spaces | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
 [Instagram](https://github.com/bryonywatson1/instagram-challenge) | An Instagram clone web app built singlehandedly over a single weekend | Ruby on Rails, PostgreSQL | Rspec, Capybara
 
