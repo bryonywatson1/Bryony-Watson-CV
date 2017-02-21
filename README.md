@@ -2,7 +2,7 @@
 ## Bryony Watson
 
 
-[skills](#skills) | [experience](#experience) | [education](#education) | [linkedin](https://uk.linkedin.com/in/bryony-watson)
+[skills](#skills) | [experience](#experience) | [education](#education) | [linkedin](https://uk.linkedin.com/in/bryony-watson) | [twitter](https://twitter.com/bryonywatson1)
 
 I have always had a passion for technology, and over the last year have decided to act on it. In my previous role at Egon Zehnder I worked in the tech team, recruiting senior people such as CEOs and CTOs for all sizes of digital and tech companies. I was inspired by the people we were interviewing and I admired the interesting work they were doing. I started teaching myself to code, and, realising how satisfying and exciting I found it, applied for the software development course at Makers Academy.
 
